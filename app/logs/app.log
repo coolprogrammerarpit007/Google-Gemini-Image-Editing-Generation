@@ -1,0 +1,5 @@
+2025-11-08 16:18:58,194 - INFO - \u2705 Database and tables initialized successfully
+2025-11-08 16:20:01,221 - INFO - AFC is enabled with max remote calls: 10.
+2025-11-08 16:20:11,274 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-image:generateContent "HTTP/1.1 200 OK"
+2025-11-08 16:23:19,034 - INFO - AFC is enabled with max remote calls: 10.
+2025-11-08 16:23:28,871 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-image:generateContent "HTTP/1.1 200 OK"
